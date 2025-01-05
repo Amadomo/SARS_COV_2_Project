@@ -1,0 +1,18 @@
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] scales_1.3.0    ggpubr_0.6.0    readxl_1.4.3    stringi_1.8.4   lubridate_1.9.4 forcats_1.0.0  
+ [7] stringr_1.5.1   dplyr_1.1.4     purrr_1.0.2     readr_2.1.5     tidyr_1.3.1     tibble_3.2.1   
+[13] ggplot2_3.5.1   tidyverse_2.0.0 sf_1.0-19      
+
+loaded via a namespace (and not attached):
+ [1] generics_0.1.3     rstatix_0.7.2      class_7.3-22       KernSmooth_2.23-24 hms_1.1.3         
+ [6] magrittr_2.0.3     grid_4.4.2         timechange_0.3.0   cellranger_1.1.0   e1071_1.7-16      
+[11] backports_1.5.0    Formula_1.2-5      DBI_1.2.3          abind_1.4-8        cli_3.6.3         
+[16] rlang_1.1.4        units_0.8-5        munsell_0.5.1      withr_3.0.2        tools_4.4.2       
+[21] tzdb_0.4.0         ggsignif_0.6.4     colorspace_2.1-1   broom_1.0.7        vctrs_0.6.5       
+[26] R6_2.5.1           proxy_0.4-27       lifecycle_1.0.4    classInt_0.4-10    car_3.1-3         
+[31] pkgconfig_2.0.3    pillar_1.10.0      gtable_0.3.6       glue_1.8.0         Rcpp_1.0.13-1     
+[36] tidyselect_1.2.1   rstudioapi_0.17.1  farver_2.1.2       labeling_0.4.3     carData_3.0-5     
+[41] compiler_4.4.2
